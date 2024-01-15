@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "188840101470",
+    "project_id": "fazenda-dd9bb",
+    "storage_bucket": "fazenda-dd9bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:188840101470:android:998b84aadae8f0b4ff16cf",
+        "android_client_info": {
+          "package_name": "br.com.emanuel.fazendap2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "188840101470-mqio9m4i7mh1tvipus78rrlddtlnu3ur.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbLjNPSGbFkIjuOGagENyzf0hkjbJok7c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "188840101470-mqio9m4i7mh1tvipus78rrlddtlnu3ur.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

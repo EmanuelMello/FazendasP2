@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FazendaP2</string>
+    <string name="title_activity_tela_principal">TelaPrincipal</string>
+    <string name="title_activity_tela_fazendas">TelaFazendas</string>
+    <string name="title_activity_tela_insere_fazendas">TelaInsereFazendas</string>
+    <string name="title_activity_tela_mostrar_fazendas">TelaMostrarFazendas</string>
+    <string name="title_activity_tela_editar_fazendas">TelaEditarFazendas</string>
+</resources>
